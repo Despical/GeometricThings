@@ -1,0 +1,12 @@
+me\despical\armorstandeditor\maze\MyMaze$Cell.class
+me\despical\armorstandeditor\commands\TempleCommand.class
+me\despical\armorstandeditor\Main.class
+me\despical\armorstandeditor\commands\NameCommand.class
+me\despical\armorstandeditor\maze\MazeCommand.class
+me\despical\armorstandeditor\commands\TowerCommand.class
+me\despical\armorstandeditor\commands\PentagonCommand.class
+me\despical\armorstandeditor\commands\TestCommand.class
+me\despical\armorstandeditor\commands\RectangleCommand.class
+me\despical\armorstandeditor\commands\PyramidCommand.class
+me\despical\armorstandeditor\commands\TriangleCommand.class
+me\despical\armorstandeditor\maze\MyMaze.class

@@ -1,0 +1,5 @@
+name: ArmorStandEditor
+author: Despical
+version: 1.0.0
+main: me.despical.armorstandeditor.Main
+api-version: 1.16
